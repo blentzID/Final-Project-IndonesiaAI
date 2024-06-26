@@ -151,4 +151,4 @@ Five questions are asked, and the answer from each scenario is as following:
    - Use larger and better model, e.g. ChatGPT 4 or Llama 3 model, if no 
      constraint with financial or computing resource.
 
-Other projects can be seen at: https://github.com/RobyKoeswojo?tab=repositories
+
